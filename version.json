@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1",
+  "versionCode": 3,
+  "versionName": "1.2",
   "apkUrl": "https://raw.githubusercontent.com/gooooooooooooogle/tingchefei-releases/main/TingCheFei.apk",
-  "sha256": "251895634c9ee6a674b5ba0620e17b10c41f84b00dfd2f78fa1c3e6832b45c09",
-  "notes": "新增自动更新：启动时检查新版本，下载后校验 SHA-256；修复超过24小时的夜间重复计费与白天首档重复计算。"
+  "sha256": "b233dbc7c22d11b6d43c989267727eef970863e6ce4a1280854d0f638b2906a9",
+  "notes": "修复首次安装闪退（APK 内嵌程序集）；新增应用图标；自动更新改为按 versionCode 比较，增加 jsDelivr 镜像与授权后继续安装。"
 }
