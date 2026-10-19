@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2",
+  "versionCode": 4,
+  "versionName": "1.3",
   "apkUrl": "https://raw.githubusercontent.com/gooooooooooooogle/tingchefei-releases/main/TingCheFei.apk",
-  "sha256": "b233dbc7c22d11b6d43c989267727eef970863e6ce4a1280854d0f638b2906a9",
-  "notes": "修复首次安装闪退（APK 内嵌程序集）；新增应用图标；自动更新改为按 versionCode 比较，增加 jsDelivr 镜像与授权后继续安装。"
+  "sha256": "472bf6afa52b5d050d9576bd2d61e7e252e3b67b54a338239f64dae3d977cb14",
+  "notes": "新增手动选择入场、出场日期和时间计算理论费用；保留入场时间记录，页面可见时显示已停时长，后台不运行计时器。"
 }
