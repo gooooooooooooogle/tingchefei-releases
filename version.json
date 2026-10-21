@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
+  "versionCode": 7,
+  "versionName": "1.6",
   "apkUrl": "https://raw.githubusercontent.com/gooooooooooooogle/tingchefei-releases/main/TingCheFei.apk",
-  "sha256": "64d4c544740e35ff2c8cefd7e22f0a34976c13e2881a3c125e00f77d287f8b95",
-  "notes": "更新下载显示进度条和已下载大小；网络慢时可重试或取消，不再静默等待。"
+  "sha256": "3c4957ce8960b57b289dd80e458db6a3fd9effd2f2052df36eef06d75a8a21d9",
+  "notes": "手动入场、出场时间改为键盘输入：支持 18:59、1859 或只输 9，格式不对会提示。"
 }
