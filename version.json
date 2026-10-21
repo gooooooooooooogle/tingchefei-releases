@@ -2,6 +2,6 @@
   "versionCode": 7,
   "versionName": "1.6",
   "apkUrl": "https://raw.githubusercontent.com/gooooooooooooogle/tingchefei-releases/main/TingCheFei.apk",
-  "sha256": "3c4957ce8960b57b289dd80e458db6a3fd9effd2f2052df36eef06d75a8a21d9",
-  "notes": "手动入场、出场时间改为键盘输入：支持 18:59、1859 或只输 9，格式不对会提示。"
+  "sha256": "a6dfc920cce2bf7cb6166af8579a540441a30f10bfc9efe6107c82ab80fcdf62",
+  "notes": "手动入场、出场时间改为纯数字输入（如 1859），弹出数字键盘；格式不对会提示。"
 }
