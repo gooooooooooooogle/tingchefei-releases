@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
+  "versionCode": 8,
+  "versionName": "1.7",
   "apkUrl": "https://raw.githubusercontent.com/gooooooooooooogle/tingchefei-releases/main/TingCheFei.apk",
-  "sha256": "a6dfc920cce2bf7cb6166af8579a540441a30f10bfc9efe6107c82ab80fcdf62",
-  "notes": "手动入场、出场时间改为纯数字输入（如 1859），弹出数字键盘；格式不对会提示。"
+  "sha256": "f350149a35616a6a3e2d208e1a3f27f0267a12ea65ddd3f06c4cb2ba4637af16",
+  "notes": "入场、出场恢复系统时间控件，点开默认键盘输入模式，直接输数字；界面仍显示 18:59 格式。"
 }
