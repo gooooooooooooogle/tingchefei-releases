@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "1.3",
+  "versionCode": 5,
+  "versionName": "1.4",
   "apkUrl": "https://raw.githubusercontent.com/gooooooooooooogle/tingchefei-releases/main/TingCheFei.apk",
-  "sha256": "472bf6afa52b5d050d9576bd2d61e7e252e3b67b54a338239f64dae3d977cb14",
-  "notes": "新增手动选择入场、出场日期和时间计算理论费用；保留入场时间记录，页面可见时显示已停时长，后台不运行计时器。"
+  "sha256": "084aac194a2a336b8033f1ce6688463c89f33ce39f24ebfabea1958f0ce74f76",
+  "notes": "明细补充免费时段、每段计费算式、减免前金额与末尾周期合计；修复收大免小重复扣减。"
 }
