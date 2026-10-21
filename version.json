@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
+  "versionCode": 6,
+  "versionName": "1.5",
   "apkUrl": "https://raw.githubusercontent.com/gooooooooooooogle/tingchefei-releases/main/TingCheFei.apk",
-  "sha256": "084aac194a2a336b8033f1ce6688463c89f33ce39f24ebfabea1958f0ce74f76",
-  "notes": "明细补充免费时段、每段计费算式、减免前金额与末尾周期合计；修复收大免小重复扣减。"
+  "sha256": "64d4c544740e35ff2c8cefd7e22f0a34976c13e2881a3c125e00f77d287f8b95",
+  "notes": "更新下载显示进度条和已下载大小；网络慢时可重试或取消，不再静默等待。"
 }
